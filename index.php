@@ -76,27 +76,29 @@
                 margin-bottom: 30px;
             }
         </style>
-            </head>
+      </head>
     <body>
         <div class="flex-center position-ref full-height">
-                            <div class="top-right links">
-                                            <a href="https://eduardocruz.com/login">Login</a>
+          <div class="top-right links">
+            <a href="https://eduardocruz.com/links">Links</a>
 
-                                                    <a href="https://eduardocruz.com/register">Register</a>
-                                                            </div>
+            <a href="https://eduardocruz.com/login">Login</a>
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Eduardo Cruz
-                </div>
-                <div class="flex-center">
-                    <span class="mr-1" style="margin-right: 4px;">Made with</span>
-                    <span class="icon">
-                    <i class="fa fa-heart fa-w" aria-hidden="true" style="color:red" ></i>
-                    </span>
-                    <span class="ml-1" style="margin-left: 4px;">in Brazil 🇧🇷</span>
-                </div>
+            <a href="https://eduardocruz.com/register">Register</a>
+          </div>
+
+          <div class="content">
+            <div class="title m-b-md">
+                Eduardo Cruz
             </div>
+            <div class="flex-center">
+                <span class="mr-1" style="margin-right: 4px;">Made with</span>
+                <span class="icon">
+                <i class="fa fa-heart fa-w" aria-hidden="true" style="color:red" ></i>
+                </span>
+                <span class="ml-1" style="margin-left: 4px;">in Brazil 🇧🇷</span>
+            </div>
+          </div>
         </div>
 
     </body>
