@@ -80,6 +80,8 @@
     <body>
         <div class="flex-center position-ref full-height">
           <div class="top-right links">
+            <a href="https://eduardocruz.herokuapp.com/ebook.php">E-Book</a>
+
             <a href="https://eduardocruz.herokuapp.com/link.php">Links</a>
 
             <a href="https://eduardocruz.com/login">Login</a>
